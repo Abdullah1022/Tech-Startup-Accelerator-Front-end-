@@ -1,0 +1,21 @@
+p, h3, a{
+    color: #525048;
+}
+
+h3{
+    font-weight: 600;
+}
+
+/* background color */
+.lightgrey{background-color: #525048;}
+.darkbrown{background-color: #69665C;}
+.lightbrown{background-color: #B2AFA1;}
+.lightyellow{background-color: #FFF9DE;}
+.lightblue{background-color: #D1E7F7;}
+.lightgreen{background-color: #DAF2D6;}
+.lightred{background-color: #FFCECE;}
+.lightpurple{background-color: #D2CEFF;}
+
+
+/* text color */
+.txt-lightgrey{color: #9c9c9c;}
