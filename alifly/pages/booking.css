@@ -1,0 +1,63 @@
+section{
+    padding-top: 175px;
+}
+
+.bot-book{
+    justify-content: space-around;
+    border-radius: .5rem;
+    outline: none;
+    border: 1px solid #857F81;
+    padding: 3rem;
+    margin-bottom: 74px; margin-top: 180px;
+}
+
+.bot-book .left-side{
+    width: 34%;
+}
+
+.bot-book .left-side h3{
+    margin-top: 5px;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.bot-book .right-side{
+    width: 30%;
+}
+
+.bot-book .right-side .box{
+    margin:0;
+}
+
+.bot-book .right-side form{
+    flex-direction: column;
+    gap: 20px;
+}
+
+.bot-book .right-side h3{
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 26px;
+}
+
+.right-side .payment .payment-title{
+    font-size: 21px;
+    margin: 30px;
+}
+
+.right-side .payment ul{
+    gap: 29px;
+    justify-content: center;
+}
+
+.booking-footer{
+    padding: 0;
+}
+
+.payment ul li{
+    width: 18%;
+}
+
+.payment ul li img{
+    width: 100%;
+}
